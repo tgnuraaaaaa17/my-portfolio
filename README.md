@@ -30,7 +30,7 @@ git init
 git add .
 git commit -m "Initial commit"
 git branch -M main
-git remote add origin https://github.com/ТВОЙ-ЮЗЕРНЕЙМ/my-portfolio.git
+git remote add origin https://github.com/tgnuraaaaaa17/my-portfolio.git
 git push -u origin main
 ```
 
@@ -47,7 +47,7 @@ npm run deploy
    адресу:
 
 ```
-https://ТВОЙ-ЮЗЕРНЕЙМ.github.io/my-portfolio/
+https://tgnuraaaaaa17.github.io/my-portfolio/
 ```
 
 ## 4. Что приложить в домашку
